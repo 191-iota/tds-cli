@@ -1,4 +1,4 @@
-# tds — Transport Duration Switzerland
+# tds - Transport Duration Switzerland
 
 `tds` compares how long a trip takes by public transport versus by car between two places in Switzerland, from the command line. It prints the fastest train connection — each leg with its times and platform — next to the road driving time, so you can see both side by side.
 
