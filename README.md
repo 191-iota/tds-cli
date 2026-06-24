@@ -53,11 +53,13 @@ tds "Winterthur" "Lausanne"
 
 ## Environment Variables
 
-Create **free** a `.env` file with your API key from OpenRouteService:
+Create a `.env` file with a free API key from OpenRouteService:
 
 ```
 ORS_API_KEY=your_api_key_here
 ```
+
+Only the car comparison uses this key — the train route works without one.
 
 ## License
 
